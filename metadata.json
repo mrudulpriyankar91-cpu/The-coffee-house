@@ -1,0 +1,6 @@
+{
+  "name": "THE COFFEE HOUSE",
+  "description": "Specialty espresso bar, small-batch roastery, and daily sourdough bakery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
